@@ -42,3 +42,5 @@ export default (value, name, validations) => {
  
       return {valid, errors};
 }
+
+
