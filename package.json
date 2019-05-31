@@ -1,7 +1,6 @@
 {
   "name": "parcel",
   "version": "1.0.0",
-  "description": "",
   "main": "App.js",
   "scripts": {
     "start": "parcel index.html"
@@ -20,5 +19,6 @@
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6"
-  }
+  },
+  "description": ""
 }
