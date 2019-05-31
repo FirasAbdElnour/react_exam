@@ -6,6 +6,7 @@ import { Alert, Button, Container, Row, Col } from "react-bootstrap";
 import { Form, InputGroup } from "react-bootstrap";
 
 import validator, { field } from './validator';
+import Show from './show'
 
 export default class App extends Component {
   constructor() {
